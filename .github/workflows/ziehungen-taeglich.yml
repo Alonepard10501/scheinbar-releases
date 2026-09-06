@@ -1,0 +1,41 @@
+name: Ziehungen taeglich pflegen
+
+on:
+  schedule:
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pflegen:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Berlin
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Ziehungen holen und pruefen
+        run: python ziehungen_pflegen.py
+
+      - name: In das neueste Release legen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG=$(gh release view --json tagName --jq .tagName)
+          gh release upload "$TAG" Veroeffentlichen/ziehungen.json --clobber
+          echo "ziehungen.json in $TAG erneuert"
+
+      - name: Stand im Repo festhalten
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Veroeffentlichen/ziehungen.json
+          git diff --cached --quiet && echo "nichts Neues" && exit 0
+          git commit -m "Ziehungen aktualisiert"
+          git push
