@@ -1,0 +1,6890 @@
+[
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-09-06",
+  "hauptzahlen": [
+   2,
+   4,
+   16,
+   29,
+   44,
+   45
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-09-06",
+  "ziffern": "2263975"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-09-06",
+  "ziffern": "143114"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-09-07",
+  "hauptzahlen": [
+   3,
+   4,
+   7,
+   8,
+   10,
+   17,
+   18,
+   20,
+   21,
+   32,
+   37,
+   40,
+   41,
+   45,
+   53,
+   62,
+   63,
+   64,
+   65,
+   67,
+   71,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-09-07",
+  "gewinne": [
+   {
+    "serie": "4641",
+    "los": "49165"
+   },
+   {
+    "serie": "4670",
+    "los": "11100"
+   },
+   {
+    "serie": "4608",
+    "los": "14139"
+   },
+   {
+    "serie": "4660",
+    "los": "57041"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-09-09",
+  "hauptzahlen": [
+   14,
+   18,
+   24,
+   27,
+   50
+  ],
+  "zusatzzahlen": [
+   8,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-09-10",
+  "hauptzahlen": [
+   3,
+   15,
+   17,
+   21,
+   22,
+   37
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-09-10",
+  "ziffern": "9668141"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-09-10",
+  "ziffern": "464108"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-09-12",
+  "hauptzahlen": [
+   7,
+   22,
+   24,
+   33,
+   45
+  ],
+  "zusatzzahlen": [
+   4,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-09-13",
+  "hauptzahlen": [
+   2,
+   8,
+   15,
+   23,
+   25,
+   43
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-09-13",
+  "ziffern": "4768414"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-09-13",
+  "ziffern": "093542"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-09-14",
+  "hauptzahlen": [
+   1,
+   10,
+   11,
+   14,
+   20,
+   21,
+   24,
+   28,
+   29,
+   31,
+   33,
+   42,
+   43,
+   46,
+   52,
+   55,
+   60,
+   61,
+   64,
+   69,
+   73,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-09-14",
+  "gewinne": [
+   {
+    "serie": "4740",
+    "los": "51446"
+   },
+   {
+    "serie": "4701",
+    "los": "32157"
+   },
+   {
+    "serie": "4770",
+    "los": "36151"
+   },
+   {
+    "serie": "4708",
+    "los": "23321"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-09-16",
+  "hauptzahlen": [
+   8,
+   9,
+   14,
+   37,
+   39
+  ],
+  "zusatzzahlen": [
+   1,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-09-17",
+  "hauptzahlen": [
+   20,
+   21,
+   22,
+   27,
+   37,
+   44
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-09-17",
+  "ziffern": "8496021"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-09-17",
+  "ziffern": "232218"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-09-19",
+  "hauptzahlen": [
+   9,
+   37,
+   40,
+   41,
+   46
+  ],
+  "zusatzzahlen": [
+   1,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-09-20",
+  "hauptzahlen": [
+   6,
+   13,
+   15,
+   19,
+   43,
+   44
+  ],
+  "zusatzzahlen": [
+   4
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-09-20",
+  "ziffern": "4580703"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-09-20",
+  "ziffern": "704865"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-09-21",
+  "hauptzahlen": [
+   2,
+   3,
+   4,
+   8,
+   14,
+   15,
+   33,
+   39,
+   40,
+   42,
+   49,
+   50,
+   53,
+   54,
+   57,
+   58,
+   59,
+   63,
+   68,
+   69,
+   70,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-09-21",
+  "gewinne": [
+   {
+    "serie": "4841",
+    "los": "48754"
+   },
+   {
+    "serie": "4851",
+    "los": "16920"
+   },
+   {
+    "serie": "4804",
+    "los": "34987"
+   },
+   {
+    "serie": "4800",
+    "los": "54484"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-09-23",
+  "hauptzahlen": [
+   7,
+   18,
+   31,
+   32,
+   33
+  ],
+  "zusatzzahlen": [
+   10,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-09-24",
+  "hauptzahlen": [
+   9,
+   14,
+   16,
+   29,
+   31,
+   48
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-09-24",
+  "ziffern": "6699377"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-09-24",
+  "ziffern": "328099"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-09-26",
+  "hauptzahlen": [
+   12,
+   24,
+   26,
+   35,
+   48
+  ],
+  "zusatzzahlen": [
+   1,
+   2
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-09-27",
+  "hauptzahlen": [
+   8,
+   11,
+   14,
+   20,
+   36,
+   38
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-09-27",
+  "ziffern": "8534152"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-09-27",
+  "ziffern": "539182"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-09-28",
+  "hauptzahlen": [
+   4,
+   5,
+   7,
+   10,
+   14,
+   18,
+   20,
+   23,
+   26,
+   28,
+   35,
+   39,
+   40,
+   42,
+   44,
+   46,
+   47,
+   49,
+   55,
+   60,
+   73,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-09-28",
+  "gewinne": [
+   {
+    "serie": "4939",
+    "los": "44169"
+   },
+   {
+    "serie": "4940",
+    "los": "56236"
+   },
+   {
+    "serie": "4962",
+    "los": "12204"
+   },
+   {
+    "serie": "4912",
+    "los": "50208"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-09-30",
+  "hauptzahlen": [
+   8,
+   11,
+   13,
+   24,
+   27
+  ],
+  "zusatzzahlen": [
+   3,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-01",
+  "hauptzahlen": [
+   9,
+   12,
+   14,
+   32,
+   37,
+   41
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-01",
+  "ziffern": "2243327"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-01",
+  "ziffern": "378857"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-03",
+  "hauptzahlen": [
+   1,
+   2,
+   7,
+   21,
+   27
+  ],
+  "zusatzzahlen": [
+   8,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-04",
+  "hauptzahlen": [
+   2,
+   11,
+   12,
+   23,
+   29,
+   37
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-04",
+  "ziffern": "3316222"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-04",
+  "ziffern": "587319"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-10-05",
+  "hauptzahlen": [
+   8,
+   10,
+   11,
+   13,
+   14,
+   16,
+   25,
+   27,
+   29,
+   32,
+   37,
+   39,
+   42,
+   44,
+   48,
+   50,
+   54,
+   56,
+   68,
+   73,
+   74,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-10-05",
+  "gewinne": [
+   {
+    "serie": "5006",
+    "los": "48690"
+   },
+   {
+    "serie": "5000",
+    "los": "29171"
+   },
+   {
+    "serie": "5004",
+    "los": "34099"
+   },
+   {
+    "serie": "5019",
+    "los": "39628"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-07",
+  "hauptzahlen": [
+   10,
+   22,
+   38,
+   42,
+   48
+  ],
+  "zusatzzahlen": [
+   2,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-08",
+  "hauptzahlen": [
+   6,
+   7,
+   10,
+   20,
+   40,
+   42
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-08",
+  "ziffern": "5605471"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-08",
+  "ziffern": "748703"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-10",
+  "hauptzahlen": [
+   4,
+   5,
+   24,
+   31,
+   41
+  ],
+  "zusatzzahlen": [
+   3,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-11",
+  "hauptzahlen": [
+   13,
+   17,
+   22,
+   23,
+   28,
+   36
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-11",
+  "ziffern": "8288122"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-11",
+  "ziffern": "360144"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-10-12",
+  "hauptzahlen": [
+   14,
+   18,
+   21,
+   23,
+   24,
+   25,
+   28,
+   30,
+   37,
+   38,
+   42,
+   44,
+   45,
+   47,
+   49,
+   51,
+   59,
+   60,
+   61,
+   63,
+   65,
+   72
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-10-12",
+  "gewinne": [
+   {
+    "serie": "5137",
+    "los": "24986"
+   },
+   {
+    "serie": "5119",
+    "los": "45269"
+   },
+   {
+    "serie": "5100",
+    "los": "28181"
+   },
+   {
+    "serie": "5120",
+    "los": "14761"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-14",
+  "hauptzahlen": [
+   8,
+   12,
+   13,
+   49,
+   50
+  ],
+  "zusatzzahlen": [
+   2,
+   4
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-15",
+  "hauptzahlen": [
+   4,
+   5,
+   6,
+   7,
+   13,
+   21
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-15",
+  "ziffern": "5894126"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-15",
+  "ziffern": "932833"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-17",
+  "hauptzahlen": [
+   18,
+   21,
+   34,
+   35,
+   46
+  ],
+  "zusatzzahlen": [
+   2,
+   3
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-18",
+  "hauptzahlen": [
+   2,
+   18,
+   25,
+   42,
+   44,
+   47
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-18",
+  "ziffern": "9436758"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-18",
+  "ziffern": "560523"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-10-19",
+  "hauptzahlen": [
+   3,
+   5,
+   9,
+   11,
+   12,
+   14,
+   15,
+   17,
+   26,
+   32,
+   34,
+   35,
+   37,
+   38,
+   45,
+   61,
+   62,
+   64,
+   65,
+   66,
+   67,
+   71
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-10-19",
+  "gewinne": [
+   {
+    "serie": "5206",
+    "los": "49667"
+   },
+   {
+    "serie": "5251",
+    "los": "48789"
+   },
+   {
+    "serie": "5207",
+    "los": "48274"
+   },
+   {
+    "serie": "5202",
+    "los": "28412"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-21",
+  "hauptzahlen": [
+   6,
+   21,
+   30,
+   40,
+   46
+  ],
+  "zusatzzahlen": [
+   3,
+   4
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-22",
+  "hauptzahlen": [
+   4,
+   14,
+   19,
+   26,
+   35,
+   40
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-22",
+  "ziffern": "0077418"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-22",
+  "ziffern": "417137"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-24",
+  "hauptzahlen": [
+   12,
+   13,
+   27,
+   42,
+   43
+  ],
+  "zusatzzahlen": [
+   3,
+   4
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-25",
+  "hauptzahlen": [
+   16,
+   17,
+   23,
+   30,
+   39,
+   42
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-25",
+  "ziffern": "6673213"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-25",
+  "ziffern": "939109"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-10-26",
+  "hauptzahlen": [
+   18,
+   20,
+   23,
+   24,
+   26,
+   29,
+   31,
+   32,
+   36,
+   39,
+   40,
+   45,
+   49,
+   50,
+   56,
+   58,
+   59,
+   60,
+   65,
+   68,
+   72,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-10-26",
+  "gewinne": [
+   {
+    "serie": "5338",
+    "los": "57801"
+   },
+   {
+    "serie": "5337",
+    "los": "20358"
+   },
+   {
+    "serie": "5320",
+    "los": "38767"
+   },
+   {
+    "serie": "5304",
+    "los": "46778"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-28",
+  "hauptzahlen": [
+   3,
+   4,
+   22,
+   45,
+   50
+  ],
+  "zusatzzahlen": [
+   9,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-10-29",
+  "hauptzahlen": [
+   5,
+   7,
+   9,
+   31,
+   43,
+   46
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-10-29",
+  "ziffern": "5389832"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-10-29",
+  "ziffern": "523541"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-10-31",
+  "hauptzahlen": [
+   5,
+   11,
+   40,
+   41,
+   47
+  ],
+  "zusatzzahlen": [
+   1,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-01",
+  "hauptzahlen": [
+   7,
+   18,
+   28,
+   29,
+   35,
+   38
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-01",
+  "ziffern": "1464018"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-01",
+  "ziffern": "610577"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-11-02",
+  "hauptzahlen": [
+   4,
+   5,
+   8,
+   10,
+   15,
+   16,
+   18,
+   19,
+   23,
+   26,
+   28,
+   29,
+   31,
+   32,
+   36,
+   39,
+   42,
+   45,
+   61,
+   62,
+   66,
+   69
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-11-02",
+  "gewinne": [
+   {
+    "serie": "5402",
+    "los": "26063"
+   },
+   {
+    "serie": "5408",
+    "los": "58169"
+   },
+   {
+    "serie": "5466",
+    "los": "20029"
+   },
+   {
+    "serie": "5401",
+    "los": "11106"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-04",
+  "hauptzahlen": [
+   3,
+   21,
+   22,
+   33,
+   39
+  ],
+  "zusatzzahlen": [
+   1,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-05",
+  "hauptzahlen": [
+   8,
+   20,
+   28,
+   33,
+   37,
+   49
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-05",
+  "ziffern": "6540366"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-05",
+  "ziffern": "494132"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-07",
+  "hauptzahlen": [
+   13,
+   19,
+   22,
+   35,
+   40
+  ],
+  "zusatzzahlen": [
+   2,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-08",
+  "hauptzahlen": [
+   2,
+   10,
+   16,
+   26,
+   39,
+   44
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-08",
+  "ziffern": "0433491"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-08",
+  "ziffern": "402891"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-11-09",
+  "hauptzahlen": [
+   1,
+   5,
+   6,
+   13,
+   15,
+   16,
+   24,
+   27,
+   28,
+   29,
+   31,
+   33,
+   37,
+   40,
+   42,
+   50,
+   52,
+   53,
+   54,
+   60,
+   70,
+   71
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-11-09",
+  "gewinne": [
+   {
+    "serie": "5501",
+    "los": "27317"
+   },
+   {
+    "serie": "5521",
+    "los": "34290"
+   },
+   {
+    "serie": "5501",
+    "los": "32979"
+   },
+   {
+    "serie": "5504",
+    "los": "10498"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-11",
+  "hauptzahlen": [
+   8,
+   24,
+   25,
+   41,
+   50
+  ],
+  "zusatzzahlen": [
+   8,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-12",
+  "hauptzahlen": [
+   6,
+   11,
+   20,
+   28,
+   36,
+   46
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-12",
+  "ziffern": "6759061"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-12",
+  "ziffern": "999037"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-14",
+  "hauptzahlen": [
+   3,
+   5,
+   20,
+   30,
+   37
+  ],
+  "zusatzzahlen": [
+   6,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-15",
+  "hauptzahlen": [
+   6,
+   9,
+   12,
+   13,
+   32,
+   39
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-15",
+  "ziffern": "7120791"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-15",
+  "ziffern": "015767"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-11-16",
+  "hauptzahlen": [
+   1,
+   6,
+   8,
+   9,
+   11,
+   12,
+   16,
+   18,
+   24,
+   25,
+   28,
+   34,
+   35,
+   39,
+   40,
+   45,
+   48,
+   51,
+   52,
+   54,
+   56,
+   69
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-11-16",
+  "gewinne": [
+   {
+    "serie": "5621",
+    "los": "24913"
+   },
+   {
+    "serie": "5666",
+    "los": "12681"
+   },
+   {
+    "serie": "5600",
+    "los": "37541"
+   },
+   {
+    "serie": "5606",
+    "los": "36074"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-18",
+  "hauptzahlen": [
+   19,
+   25,
+   27,
+   41,
+   49
+  ],
+  "zusatzzahlen": [
+   3,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-19",
+  "hauptzahlen": [
+   4,
+   7,
+   18,
+   26,
+   37,
+   48
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-19",
+  "ziffern": "7803448"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-19",
+  "ziffern": "248996"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-21",
+  "hauptzahlen": [
+   15,
+   24,
+   30,
+   45,
+   50
+  ],
+  "zusatzzahlen": [
+   5,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-22",
+  "hauptzahlen": [
+   15,
+   18,
+   21,
+   29,
+   32,
+   33
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-22",
+  "ziffern": "1964256"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-22",
+  "ziffern": "163643"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-11-23",
+  "hauptzahlen": [
+   10,
+   19,
+   20,
+   21,
+   22,
+   27,
+   29,
+   32,
+   33,
+   39,
+   42,
+   45,
+   53,
+   55,
+   56,
+   57,
+   64,
+   65,
+   68,
+   72,
+   73,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-11-23",
+  "gewinne": [
+   {
+    "serie": "5762",
+    "los": "10388"
+   },
+   {
+    "serie": "5739",
+    "los": "48557"
+   },
+   {
+    "serie": "5738",
+    "los": "27519"
+   },
+   {
+    "serie": "5722",
+    "los": "33084"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-25",
+  "hauptzahlen": [
+   1,
+   23,
+   30,
+   35,
+   46
+  ],
+  "zusatzzahlen": [
+   4,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-26",
+  "hauptzahlen": [
+   2,
+   9,
+   24,
+   28,
+   29,
+   39
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-26",
+  "ziffern": "5479967"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-26",
+  "ziffern": "195733"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-11-28",
+  "hauptzahlen": [
+   12,
+   16,
+   35,
+   46,
+   50
+  ],
+  "zusatzzahlen": [
+   3,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-11-29",
+  "hauptzahlen": [
+   1,
+   13,
+   16,
+   22,
+   25,
+   44
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-11-29",
+  "ziffern": "3480892"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-11-29",
+  "ziffern": "637243"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-11-30",
+  "hauptzahlen": [
+   17,
+   19,
+   22,
+   26,
+   27,
+   28,
+   29,
+   32,
+   33,
+   42,
+   44,
+   45,
+   48,
+   53,
+   54,
+   56,
+   59,
+   64,
+   65,
+   69,
+   70,
+   72
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-11-30",
+  "gewinne": [
+   {
+    "serie": "5870",
+    "los": "42051"
+   },
+   {
+    "serie": "5850",
+    "los": "13065"
+   },
+   {
+    "serie": "5803",
+    "los": "15538"
+   },
+   {
+    "serie": "5809",
+    "los": "47385"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-02",
+  "hauptzahlen": [
+   14,
+   30,
+   34,
+   35,
+   40
+  ],
+  "zusatzzahlen": [
+   4,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-03",
+  "hauptzahlen": [
+   21,
+   27,
+   29,
+   37,
+   44,
+   49
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-03",
+  "ziffern": "8032759"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-03",
+  "ziffern": "066501"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-05",
+  "hauptzahlen": [
+   1,
+   4,
+   18,
+   22,
+   24
+  ],
+  "zusatzzahlen": [
+   6,
+   10
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-06",
+  "hauptzahlen": [
+   15,
+   26,
+   27,
+   33,
+   35,
+   37
+  ],
+  "zusatzzahlen": [
+   2
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-06",
+  "ziffern": "4803002"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-06",
+  "ziffern": "037919"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-12-07",
+  "hauptzahlen": [
+   1,
+   4,
+   11,
+   32,
+   38,
+   39,
+   42,
+   43,
+   44,
+   45,
+   46,
+   48,
+   49,
+   53,
+   55,
+   56,
+   61,
+   65,
+   67,
+   68,
+   70,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-12-07",
+  "gewinne": [
+   {
+    "serie": "5906",
+    "los": "48154"
+   },
+   {
+    "serie": "5908",
+    "los": "14911"
+   },
+   {
+    "serie": "5918",
+    "los": "49547"
+   },
+   {
+    "serie": "5907",
+    "los": "18353"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-09",
+  "hauptzahlen": [
+   2,
+   30,
+   32,
+   33,
+   37
+  ],
+  "zusatzzahlen": [
+   2,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-10",
+  "hauptzahlen": [
+   3,
+   11,
+   12,
+   13,
+   17,
+   24
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-10",
+  "ziffern": "9980064"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-10",
+  "ziffern": "296652"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-12",
+  "hauptzahlen": [
+   2,
+   25,
+   27,
+   37,
+   50
+  ],
+  "zusatzzahlen": [
+   2,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-13",
+  "hauptzahlen": [
+   6,
+   11,
+   21,
+   32,
+   37,
+   45
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-13",
+  "ziffern": "5543600"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-13",
+  "ziffern": "672792"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-12-14",
+  "hauptzahlen": [
+   1,
+   7,
+   10,
+   11,
+   14,
+   17,
+   19,
+   23,
+   26,
+   28,
+   35,
+   36,
+   37,
+   39,
+   41,
+   53,
+   60,
+   61,
+   63,
+   64,
+   65,
+   66
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-12-14",
+  "gewinne": [
+   {
+    "serie": "6016",
+    "los": "43614"
+   },
+   {
+    "serie": "6044",
+    "los": "15384"
+   },
+   {
+    "serie": "6000",
+    "los": "20667"
+   },
+   {
+    "serie": "6009",
+    "los": "50777"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-16",
+  "hauptzahlen": [
+   12,
+   22,
+   28,
+   30,
+   31
+  ],
+  "zusatzzahlen": [
+   4,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-17",
+  "hauptzahlen": [
+   6,
+   13,
+   25,
+   26,
+   32,
+   37
+  ],
+  "zusatzzahlen": [
+   2
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-17",
+  "ziffern": "0512464"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-17",
+  "ziffern": "166896"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-19",
+  "hauptzahlen": [
+   8,
+   9,
+   15,
+   35,
+   45
+  ],
+  "zusatzzahlen": [
+   2,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-20",
+  "hauptzahlen": [
+   12,
+   23,
+   32,
+   33,
+   40,
+   42
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-20",
+  "ziffern": "9841049"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-20",
+  "ziffern": "633715"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-12-21",
+  "hauptzahlen": [
+   1,
+   4,
+   5,
+   6,
+   8,
+   16,
+   20,
+   24,
+   26,
+   27,
+   28,
+   31,
+   33,
+   35,
+   39,
+   40,
+   43,
+   47,
+   48,
+   49,
+   51,
+   71
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-12-21",
+  "gewinne": [
+   {
+    "serie": "6151",
+    "los": "19533"
+   },
+   {
+    "serie": "6170",
+    "los": "50683"
+   },
+   {
+    "serie": "6104",
+    "los": "44089"
+   },
+   {
+    "serie": "6106",
+    "los": "10307"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-23",
+  "hauptzahlen": [
+   24,
+   29,
+   35,
+   40,
+   41
+  ],
+  "zusatzzahlen": [
+   6,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-24",
+  "hauptzahlen": [
+   7,
+   8,
+   25,
+   32,
+   37,
+   39
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-24",
+  "ziffern": "1399722"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-24",
+  "ziffern": "063078"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-26",
+  "hauptzahlen": [
+   15,
+   21,
+   26,
+   29,
+   42
+  ],
+  "zusatzzahlen": [
+   4,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-27",
+  "hauptzahlen": [
+   7,
+   10,
+   27,
+   28,
+   38,
+   46
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-27",
+  "ziffern": "9046651"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-27",
+  "ziffern": "123648"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2025-12-28",
+  "hauptzahlen": [
+   13,
+   16,
+   18,
+   19,
+   20,
+   21,
+   23,
+   33,
+   34,
+   40,
+   43,
+   47,
+   53,
+   54,
+   55,
+   58,
+   60,
+   61,
+   65,
+   67,
+   71,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2025-12-28",
+  "gewinne": [
+   {
+    "serie": "6202",
+    "los": "37951"
+   },
+   {
+    "serie": "6205",
+    "los": "25762"
+   },
+   {
+    "serie": "6241",
+    "los": "17583"
+   },
+   {
+    "serie": "6204",
+    "los": "42976"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2025-12-30",
+  "hauptzahlen": [
+   10,
+   18,
+   20,
+   23,
+   27
+  ],
+  "zusatzzahlen": [
+   1,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2025-12-31",
+  "hauptzahlen": [
+   3,
+   5,
+   7,
+   28,
+   36,
+   41
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2025-12-31",
+  "ziffern": "4780682"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2025-12-31",
+  "ziffern": "489281"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-02",
+  "hauptzahlen": [
+   10,
+   15,
+   29,
+   34,
+   38
+  ],
+  "zusatzzahlen": [
+   2,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-03",
+  "hauptzahlen": [
+   3,
+   8,
+   11,
+   12,
+   16,
+   46
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-03",
+  "ziffern": "1427844"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-03",
+  "ziffern": "354141"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-01-04",
+  "hauptzahlen": [
+   5,
+   7,
+   9,
+   12,
+   13,
+   14,
+   15,
+   29,
+   32,
+   33,
+   39,
+   43,
+   45,
+   46,
+   49,
+   56,
+   58,
+   64,
+   65,
+   69,
+   70,
+   71
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-01-04",
+  "gewinne": [
+   {
+    "serie": "6301",
+    "los": "37216"
+   },
+   {
+    "serie": "6341",
+    "los": "43959"
+   },
+   {
+    "serie": "6369",
+    "los": "28769"
+   },
+   {
+    "serie": "6339",
+    "los": "58125"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-06",
+  "hauptzahlen": [
+   21,
+   23,
+   30,
+   33,
+   38
+  ],
+  "zusatzzahlen": [
+   8,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-07",
+  "hauptzahlen": [
+   15,
+   18,
+   29,
+   32,
+   36,
+   47
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-07",
+  "ziffern": "9804222"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-07",
+  "ziffern": "496945"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-09",
+  "hauptzahlen": [
+   1,
+   17,
+   19,
+   25,
+   41
+  ],
+  "zusatzzahlen": [
+   6,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-10",
+  "hauptzahlen": [
+   1,
+   4,
+   7,
+   9,
+   13,
+   29
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-10",
+  "ziffern": "5377756"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-10",
+  "ziffern": "094626"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-01-11",
+  "hauptzahlen": [
+   1,
+   4,
+   11,
+   12,
+   15,
+   16,
+   23,
+   24,
+   25,
+   29,
+   31,
+   39,
+   42,
+   43,
+   49,
+   51,
+   54,
+   55,
+   56,
+   57,
+   60,
+   67
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-01-11",
+  "gewinne": [
+   {
+    "serie": "6463",
+    "los": "37194"
+   },
+   {
+    "serie": "6419",
+    "los": "33464"
+   },
+   {
+    "serie": "6474",
+    "los": "40960"
+   },
+   {
+    "serie": "6474",
+    "los": "34173"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-13",
+  "hauptzahlen": [
+   2,
+   16,
+   27,
+   33,
+   47
+  ],
+  "zusatzzahlen": [
+   6,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-14",
+  "hauptzahlen": [
+   18,
+   21,
+   23,
+   25,
+   26,
+   48
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-14",
+  "ziffern": "8070306"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-14",
+  "ziffern": "483974"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-16",
+  "hauptzahlen": [
+   8,
+   16,
+   37,
+   39,
+   48
+  ],
+  "zusatzzahlen": [
+   5,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-17",
+  "hauptzahlen": [
+   12,
+   21,
+   22,
+   37,
+   46,
+   49
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-17",
+  "ziffern": "2502474"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-17",
+  "ziffern": "465003"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-01-18",
+  "hauptzahlen": [
+   4,
+   5,
+   9,
+   11,
+   13,
+   15,
+   20,
+   21,
+   22,
+   30,
+   31,
+   32,
+   33,
+   40,
+   41,
+   44,
+   55,
+   56,
+   59,
+   63,
+   73,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-01-18",
+  "gewinne": [
+   {
+    "serie": "6563",
+    "los": "12346"
+   },
+   {
+    "serie": "6538",
+    "los": "49858"
+   },
+   {
+    "serie": "6500",
+    "los": "23420"
+   },
+   {
+    "serie": "6503",
+    "los": "49195"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-20",
+  "hauptzahlen": [
+   16,
+   26,
+   32,
+   37,
+   45
+  ],
+  "zusatzzahlen": [
+   2,
+   3
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-21",
+  "hauptzahlen": [
+   4,
+   5,
+   10,
+   15,
+   24,
+   27
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-21",
+  "ziffern": "6387394"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-21",
+  "ziffern": "804751"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-23",
+  "hauptzahlen": [
+   18,
+   36,
+   39,
+   45,
+   50
+  ],
+  "zusatzzahlen": [
+   6,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-24",
+  "hauptzahlen": [
+   1,
+   7,
+   28,
+   32,
+   47,
+   49
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-24",
+  "ziffern": "3016188"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-24",
+  "ziffern": "164810"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-01-25",
+  "hauptzahlen": [
+   1,
+   2,
+   5,
+   6,
+   11,
+   12,
+   14,
+   16,
+   22,
+   27,
+   30,
+   34,
+   36,
+   37,
+   38,
+   39,
+   47,
+   49,
+   50,
+   56,
+   59,
+   68
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-01-25",
+  "gewinne": [
+   {
+    "serie": "6648",
+    "los": "13492"
+   },
+   {
+    "serie": "6644",
+    "los": "11257"
+   },
+   {
+    "serie": "6607",
+    "los": "54929"
+   },
+   {
+    "serie": "6674",
+    "los": "25991"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-27",
+  "hauptzahlen": [
+   13,
+   18,
+   19,
+   29,
+   32
+  ],
+  "zusatzzahlen": [
+   8,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-28",
+  "hauptzahlen": [
+   9,
+   11,
+   25,
+   35,
+   37,
+   44
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-28",
+  "ziffern": "3576416"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-28",
+  "ziffern": "349484"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-01-30",
+  "hauptzahlen": [
+   8,
+   13,
+   15,
+   17,
+   37
+  ],
+  "zusatzzahlen": [
+   3,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-01-31",
+  "hauptzahlen": [
+   8,
+   19,
+   30,
+   37,
+   38,
+   49
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-01-31",
+  "ziffern": "0975829"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-01-31",
+  "ziffern": "995894"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-02-01",
+  "hauptzahlen": [
+   3,
+   5,
+   7,
+   10,
+   14,
+   15,
+   16,
+   19,
+   22,
+   24,
+   27,
+   28,
+   43,
+   47,
+   52,
+   55,
+   56,
+   60,
+   70,
+   71,
+   72,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-02-01",
+  "gewinne": [
+   {
+    "serie": "6768",
+    "los": "10413"
+   },
+   {
+    "serie": "6720",
+    "los": "30330"
+   },
+   {
+    "serie": "6707",
+    "los": "35288"
+   },
+   {
+    "serie": "6704",
+    "los": "37499"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-03",
+  "hauptzahlen": [
+   3,
+   20,
+   27,
+   37,
+   44
+  ],
+  "zusatzzahlen": [
+   1,
+   2
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-04",
+  "hauptzahlen": [
+   9,
+   11,
+   16,
+   22,
+   27,
+   37
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-04",
+  "ziffern": "6702149"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-04",
+  "ziffern": "882156"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-06",
+  "hauptzahlen": [
+   8,
+   14,
+   38,
+   41,
+   48
+  ],
+  "zusatzzahlen": [
+   1,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-07",
+  "hauptzahlen": [
+   7,
+   11,
+   20,
+   25,
+   28,
+   49
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-07",
+  "ziffern": "1565925"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-07",
+  "ziffern": "511858"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-02-08",
+  "hauptzahlen": [
+   1,
+   3,
+   7,
+   9,
+   14,
+   15,
+   16,
+   17,
+   24,
+   25,
+   29,
+   30,
+   33,
+   34,
+   37,
+   38,
+   42,
+   44,
+   64,
+   70,
+   71,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-02-08",
+  "gewinne": [
+   {
+    "serie": "6869",
+    "los": "18963"
+   },
+   {
+    "serie": "6841",
+    "los": "42806"
+   },
+   {
+    "serie": "6816",
+    "los": "25371"
+   },
+   {
+    "serie": "6801",
+    "los": "18625"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-10",
+  "hauptzahlen": [
+   12,
+   19,
+   34,
+   39,
+   47
+  ],
+  "zusatzzahlen": [
+   4,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-11",
+  "hauptzahlen": [
+   8,
+   9,
+   18,
+   20,
+   37,
+   40
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-11",
+  "ziffern": "9952644"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-11",
+  "ziffern": "597784"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-13",
+  "hauptzahlen": [
+   1,
+   21,
+   44,
+   45,
+   46
+  ],
+  "zusatzzahlen": [
+   2,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-14",
+  "hauptzahlen": [
+   3,
+   9,
+   19,
+   20,
+   40,
+   43
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-14",
+  "ziffern": "1890000"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-14",
+  "ziffern": "820024"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-02-15",
+  "hauptzahlen": [
+   2,
+   3,
+   4,
+   6,
+   11,
+   14,
+   15,
+   21,
+   24,
+   29,
+   32,
+   33,
+   34,
+   41,
+   42,
+   44,
+   45,
+   47,
+   52,
+   57,
+   58,
+   60
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-02-15",
+  "gewinne": [
+   {
+    "serie": "6905",
+    "los": "44943"
+   },
+   {
+    "serie": "6938",
+    "los": "33832"
+   },
+   {
+    "serie": "6940",
+    "los": "40245"
+   },
+   {
+    "serie": "6939",
+    "los": "48816"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-17",
+  "hauptzahlen": [
+   8,
+   23,
+   39,
+   40,
+   44
+  ],
+  "zusatzzahlen": [
+   6,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-18",
+  "hauptzahlen": [
+   10,
+   15,
+   19,
+   20,
+   29,
+   48
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-18",
+  "ziffern": "7078667"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-18",
+  "ziffern": "713054"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-20",
+  "hauptzahlen": [
+   11,
+   17,
+   23,
+   36,
+   40
+  ],
+  "zusatzzahlen": [
+   5,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-21",
+  "hauptzahlen": [
+   2,
+   8,
+   9,
+   29,
+   39,
+   44
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-21",
+  "ziffern": "6844306"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-21",
+  "ziffern": "807342"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-02-22",
+  "hauptzahlen": [
+   20,
+   26,
+   28,
+   29,
+   33,
+   34,
+   42,
+   44,
+   47,
+   48,
+   49,
+   50,
+   51,
+   53,
+   59,
+   61,
+   65,
+   66,
+   68,
+   73,
+   74,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-02-22",
+  "gewinne": [
+   {
+    "serie": "7004",
+    "los": "28775"
+   },
+   {
+    "serie": "7041",
+    "los": "19673"
+   },
+   {
+    "serie": "7020",
+    "los": "41610"
+   },
+   {
+    "serie": "7003",
+    "los": "25462"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-24",
+  "hauptzahlen": [
+   4,
+   5,
+   26,
+   38,
+   48
+  ],
+  "zusatzzahlen": [
+   2,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-25",
+  "hauptzahlen": [
+   9,
+   13,
+   25,
+   30,
+   37,
+   46
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-25",
+  "ziffern": "9980776"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-25",
+  "ziffern": "785440"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-02-27",
+  "hauptzahlen": [
+   7,
+   17,
+   19,
+   28,
+   47
+  ],
+  "zusatzzahlen": [
+   2,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-02-28",
+  "hauptzahlen": [
+   1,
+   6,
+   19,
+   33,
+   44,
+   45
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-02-28",
+  "ziffern": "4112786"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-02-28",
+  "ziffern": "736565"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-03-01",
+  "hauptzahlen": [
+   1,
+   3,
+   4,
+   6,
+   9,
+   10,
+   13,
+   32,
+   35,
+   37,
+   38,
+   41,
+   43,
+   45,
+   51,
+   52,
+   53,
+   57,
+   60,
+   69,
+   72,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-03-01",
+  "gewinne": [
+   {
+    "serie": "7178",
+    "los": "12887"
+   },
+   {
+    "serie": "7139",
+    "los": "28012"
+   },
+   {
+    "serie": "7141",
+    "los": "28156"
+   },
+   {
+    "serie": "7169",
+    "los": "10723"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-03",
+  "hauptzahlen": [
+   1,
+   9,
+   14,
+   35,
+   49
+  ],
+  "zusatzzahlen": [
+   2,
+   10
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-04",
+  "hauptzahlen": [
+   1,
+   15,
+   17,
+   24,
+   37,
+   40
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-04",
+  "ziffern": "6246299"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-04",
+  "ziffern": "006702"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-06",
+  "hauptzahlen": [
+   8,
+   17,
+   26,
+   31,
+   47
+  ],
+  "zusatzzahlen": [
+   1,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-07",
+  "hauptzahlen": [
+   5,
+   16,
+   20,
+   38,
+   39,
+   41
+  ],
+  "zusatzzahlen": [
+   4
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-07",
+  "ziffern": "3928595"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-07",
+  "ziffern": "595658"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-03-08",
+  "hauptzahlen": [
+   1,
+   3,
+   9,
+   12,
+   14,
+   16,
+   18,
+   23,
+   25,
+   33,
+   46,
+   47,
+   48,
+   50,
+   51,
+   59,
+   63,
+   64,
+   67,
+   68,
+   69,
+   72
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-03-08",
+  "gewinne": [
+   {
+    "serie": "7221",
+    "los": "17283"
+   },
+   {
+    "serie": "7208",
+    "los": "28747"
+   },
+   {
+    "serie": "7269",
+    "los": "30899"
+   },
+   {
+    "serie": "7205",
+    "los": "22077"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-10",
+  "hauptzahlen": [
+   2,
+   3,
+   17,
+   18,
+   28
+  ],
+  "zusatzzahlen": [
+   4,
+   10
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-11",
+  "hauptzahlen": [
+   17,
+   21,
+   26,
+   32,
+   35,
+   37
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-11",
+  "ziffern": "2972790"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-11",
+  "ziffern": "056357"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-13",
+  "hauptzahlen": [
+   7,
+   23,
+   37,
+   44,
+   47
+  ],
+  "zusatzzahlen": [
+   2,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-14",
+  "hauptzahlen": [
+   19,
+   20,
+   28,
+   32,
+   44,
+   45
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-14",
+  "ziffern": "7396424"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-14",
+  "ziffern": "490773"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-03-15",
+  "hauptzahlen": [
+   1,
+   3,
+   4,
+   8,
+   16,
+   22,
+   27,
+   28,
+   33,
+   35,
+   43,
+   44,
+   49,
+   51,
+   56,
+   58,
+   59,
+   62,
+   68,
+   72,
+   73,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-03-15",
+  "gewinne": [
+   {
+    "serie": "7307",
+    "los": "48460"
+   },
+   {
+    "serie": "7319",
+    "los": "25080"
+   },
+   {
+    "serie": "7305",
+    "los": "58247"
+   },
+   {
+    "serie": "7341",
+    "los": "42316"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-17",
+  "hauptzahlen": [
+   12,
+   13,
+   16,
+   17,
+   37
+  ],
+  "zusatzzahlen": [
+   4,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-18",
+  "hauptzahlen": [
+   10,
+   13,
+   20,
+   35,
+   43,
+   49
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-18",
+  "ziffern": "2084130"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-18",
+  "ziffern": "154855"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-20",
+  "hauptzahlen": [
+   2,
+   17,
+   21,
+   25,
+   30
+  ],
+  "zusatzzahlen": [
+   2,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-21",
+  "hauptzahlen": [
+   2,
+   7,
+   19,
+   24,
+   29,
+   43
+  ],
+  "zusatzzahlen": [
+   2
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-21",
+  "ziffern": "8871973"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-21",
+  "ziffern": "074466"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-03-22",
+  "hauptzahlen": [
+   1,
+   2,
+   5,
+   9,
+   10,
+   14,
+   17,
+   18,
+   20,
+   24,
+   25,
+   35,
+   48,
+   49,
+   54,
+   55,
+   59,
+   62,
+   67,
+   69,
+   73,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-03-22",
+  "gewinne": [
+   {
+    "serie": "7439",
+    "los": "16860"
+   },
+   {
+    "serie": "7408",
+    "los": "10547"
+   },
+   {
+    "serie": "7438",
+    "los": "31297"
+   },
+   {
+    "serie": "7400",
+    "los": "11954"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-24",
+  "hauptzahlen": [
+   9,
+   15,
+   23,
+   43,
+   48
+  ],
+  "zusatzzahlen": [
+   3,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-25",
+  "hauptzahlen": [
+   7,
+   12,
+   29,
+   30,
+   46,
+   49
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-25",
+  "ziffern": "0966843"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-25",
+  "ziffern": "574082"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-27",
+  "hauptzahlen": [
+   21,
+   23,
+   25,
+   38,
+   40
+  ],
+  "zusatzzahlen": [
+   7,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-03-28",
+  "hauptzahlen": [
+   5,
+   20,
+   24,
+   33,
+   34,
+   42
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-03-28",
+  "ziffern": "1081116"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-03-28",
+  "ziffern": "230999"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-03-29",
+  "hauptzahlen": [
+   2,
+   4,
+   6,
+   7,
+   8,
+   13,
+   19,
+   30,
+   35,
+   37,
+   43,
+   46,
+   50,
+   53,
+   58,
+   61,
+   63,
+   64,
+   65,
+   66,
+   68,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-03-29",
+  "gewinne": [
+   {
+    "serie": "7507",
+    "los": "43392"
+   },
+   {
+    "serie": "7508",
+    "los": "45065"
+   },
+   {
+    "serie": "7574",
+    "los": "31874"
+   },
+   {
+    "serie": "7501",
+    "los": "57348"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-03-31",
+  "hauptzahlen": [
+   5,
+   15,
+   18,
+   20,
+   35
+  ],
+  "zusatzzahlen": [
+   7,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-01",
+  "hauptzahlen": [
+   8,
+   10,
+   11,
+   14,
+   22,
+   48
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-01",
+  "ziffern": "7082796"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-01",
+  "ziffern": "784065"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-03",
+  "hauptzahlen": [
+   9,
+   10,
+   18,
+   22,
+   37
+  ],
+  "zusatzzahlen": [
+   1,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-04",
+  "hauptzahlen": [
+   6,
+   15,
+   18,
+   23,
+   28,
+   48
+  ],
+  "zusatzzahlen": [
+   2
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-04",
+  "ziffern": "4013448"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-04",
+  "ziffern": "476069"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-04-05",
+  "hauptzahlen": [
+   5,
+   7,
+   11,
+   14,
+   15,
+   17,
+   34,
+   35,
+   37,
+   39,
+   40,
+   41,
+   44,
+   46,
+   48,
+   51,
+   57,
+   60,
+   61,
+   63,
+   67,
+   71
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-04-05",
+  "gewinne": [
+   {
+    "serie": "7600",
+    "los": "20200"
+   },
+   {
+    "serie": "7608",
+    "los": "43693"
+   },
+   {
+    "serie": "7604",
+    "los": "15393"
+   },
+   {
+    "serie": "7602",
+    "los": "47323"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-07",
+  "hauptzahlen": [
+   2,
+   4,
+   16,
+   23,
+   27
+  ],
+  "zusatzzahlen": [
+   5,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-08",
+  "hauptzahlen": [
+   2,
+   5,
+   14,
+   16,
+   23,
+   36
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-08",
+  "ziffern": "5448912"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-08",
+  "ziffern": "440551"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-10",
+  "hauptzahlen": [
+   1,
+   6,
+   11,
+   18,
+   48
+  ],
+  "zusatzzahlen": [
+   10,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-11",
+  "hauptzahlen": [
+   17,
+   23,
+   32,
+   33,
+   34,
+   46
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-11",
+  "ziffern": "8319274"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-11",
+  "ziffern": "165281"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-04-12",
+  "hauptzahlen": [
+   3,
+   5,
+   7,
+   10,
+   14,
+   15,
+   23,
+   24,
+   35,
+   36,
+   37,
+   39,
+   42,
+   48,
+   49,
+   52,
+   53,
+   58,
+   65,
+   70,
+   72,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-04-12",
+  "gewinne": [
+   {
+    "serie": "7774",
+    "los": "16410"
+   },
+   {
+    "serie": "7719",
+    "los": "40710"
+   },
+   {
+    "serie": "7769",
+    "los": "26579"
+   },
+   {
+    "serie": "7707",
+    "los": "16993"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-14",
+  "hauptzahlen": [
+   13,
+   22,
+   32,
+   46,
+   47
+  ],
+  "zusatzzahlen": [
+   6,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-15",
+  "hauptzahlen": [
+   3,
+   17,
+   25,
+   28,
+   40,
+   42
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-15",
+  "ziffern": "4340350"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-15",
+  "ziffern": "207851"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-17",
+  "hauptzahlen": [
+   16,
+   31,
+   35,
+   43,
+   44
+  ],
+  "zusatzzahlen": [
+   2,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-18",
+  "hauptzahlen": [
+   18,
+   28,
+   34,
+   37,
+   44,
+   48
+  ],
+  "zusatzzahlen": [
+   4
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-18",
+  "ziffern": "4641082"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-18",
+  "ziffern": "713649"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-04-19",
+  "hauptzahlen": [
+   3,
+   5,
+   11,
+   13,
+   19,
+   20,
+   21,
+   27,
+   33,
+   36,
+   37,
+   40,
+   43,
+   46,
+   47,
+   55,
+   58,
+   64,
+   67,
+   68,
+   71,
+   73
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-04-19",
+  "gewinne": [
+   {
+    "serie": "7841",
+    "los": "28450"
+   },
+   {
+    "serie": "7801",
+    "los": "27710"
+   },
+   {
+    "serie": "7839",
+    "los": "49395"
+   },
+   {
+    "serie": "7808",
+    "los": "40696"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-21",
+  "hauptzahlen": [
+   31,
+   32,
+   36,
+   39,
+   47
+  ],
+  "zusatzzahlen": [
+   7,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-22",
+  "hauptzahlen": [
+   15,
+   26,
+   27,
+   35,
+   42,
+   47
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-22",
+  "ziffern": "0421556"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-22",
+  "ziffern": "554003"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-24",
+  "hauptzahlen": [
+   6,
+   21,
+   29,
+   39,
+   44
+  ],
+  "zusatzzahlen": [
+   1,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-25",
+  "hauptzahlen": [
+   6,
+   12,
+   15,
+   20,
+   35,
+   49
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-25",
+  "ziffern": "8864152"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-25",
+  "ziffern": "473545"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-04-26",
+  "hauptzahlen": [
+   1,
+   7,
+   8,
+   9,
+   13,
+   18,
+   25,
+   27,
+   28,
+   30,
+   32,
+   33,
+   42,
+   43,
+   44,
+   46,
+   55,
+   61,
+   63,
+   70,
+   71,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-04-26",
+  "gewinne": [
+   {
+    "serie": "7969",
+    "los": "12978"
+   },
+   {
+    "serie": "7937",
+    "los": "20081"
+   },
+   {
+    "serie": "7900",
+    "los": "32630"
+   },
+   {
+    "serie": "7900",
+    "los": "30757"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-04-28",
+  "hauptzahlen": [
+   19,
+   20,
+   41,
+   43,
+   46
+  ],
+  "zusatzzahlen": [
+   5,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-04-29",
+  "hauptzahlen": [
+   1,
+   15,
+   25,
+   37,
+   43,
+   47
+  ],
+  "zusatzzahlen": [
+   4
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-04-29",
+  "ziffern": "6107207"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-04-29",
+  "ziffern": "246034"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-01",
+  "hauptzahlen": [
+   10,
+   11,
+   13,
+   16,
+   27
+  ],
+  "zusatzzahlen": [
+   5,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-02",
+  "hauptzahlen": [
+   1,
+   5,
+   9,
+   20,
+   21,
+   32
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-02",
+  "ziffern": "2267999"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-02",
+  "ziffern": "194401"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-05-03",
+  "hauptzahlen": [
+   2,
+   4,
+   5,
+   7,
+   11,
+   12,
+   20,
+   22,
+   23,
+   28,
+   34,
+   35,
+   38,
+   40,
+   41,
+   42,
+   49,
+   57,
+   58,
+   59,
+   60,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-05-03",
+  "gewinne": [
+   {
+    "serie": "8005",
+    "los": "29121"
+   },
+   {
+    "serie": "8006",
+    "los": "27399"
+   },
+   {
+    "serie": "8001",
+    "los": "51309"
+   },
+   {
+    "serie": "8002",
+    "los": "37706"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-05",
+  "hauptzahlen": [
+   1,
+   30,
+   33,
+   34,
+   43
+  ],
+  "zusatzzahlen": [
+   5,
+   10
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-06",
+  "hauptzahlen": [
+   10,
+   13,
+   19,
+   38,
+   40,
+   48
+  ],
+  "zusatzzahlen": [
+   2
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-06",
+  "ziffern": "5398874"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-06",
+  "ziffern": "735858"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-08",
+  "hauptzahlen": [
+   3,
+   17,
+   18,
+   31,
+   41
+  ],
+  "zusatzzahlen": [
+   6,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-09",
+  "hauptzahlen": [
+   2,
+   3,
+   12,
+   36,
+   39,
+   43
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-09",
+  "ziffern": "0319645"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-09",
+  "ziffern": "235152"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-05-10",
+  "hauptzahlen": [
+   4,
+   6,
+   10,
+   12,
+   15,
+   16,
+   18,
+   19,
+   24,
+   25,
+   26,
+   32,
+   33,
+   34,
+   40,
+   49,
+   51,
+   52,
+   53,
+   55,
+   56,
+   58
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-05-10",
+  "gewinne": [
+   {
+    "serie": "8125",
+    "los": "34327"
+   },
+   {
+    "serie": "8113",
+    "los": "18350"
+   },
+   {
+    "serie": "8122",
+    "los": "49926"
+   },
+   {
+    "serie": "8145",
+    "los": "46071"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-12",
+  "hauptzahlen": [
+   7,
+   15,
+   19,
+   28,
+   35
+  ],
+  "zusatzzahlen": [
+   3,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-13",
+  "hauptzahlen": [
+   13,
+   15,
+   20,
+   26,
+   31,
+   43
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-13",
+  "ziffern": "9184287"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-13",
+  "ziffern": "121605"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-15",
+  "hauptzahlen": [
+   1,
+   32,
+   33,
+   36,
+   37
+  ],
+  "zusatzzahlen": [
+   7,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-16",
+  "hauptzahlen": [
+   7,
+   11,
+   20,
+   23,
+   27,
+   30
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-16",
+  "ziffern": "5937243"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-16",
+  "ziffern": "845207"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-05-17",
+  "hauptzahlen": [
+   3,
+   5,
+   8,
+   14,
+   15,
+   24,
+   32,
+   36,
+   37,
+   41,
+   46,
+   49,
+   53,
+   55,
+   57,
+   58,
+   65,
+   66,
+   69,
+   71,
+   72,
+   73
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-05-17",
+  "gewinne": [
+   {
+    "serie": "8207",
+    "los": "28089"
+   },
+   {
+    "serie": "8206",
+    "los": "10207"
+   },
+   {
+    "serie": "8201",
+    "los": "21568"
+   },
+   {
+    "serie": "8237",
+    "los": "22785"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-19",
+  "hauptzahlen": [
+   10,
+   36,
+   37,
+   39,
+   47
+  ],
+  "zusatzzahlen": [
+   5,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-20",
+  "hauptzahlen": [
+   3,
+   14,
+   34,
+   39,
+   46,
+   48
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-20",
+  "ziffern": "8699192"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-20",
+  "ziffern": "545436"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-22",
+  "hauptzahlen": [
+   5,
+   34,
+   35,
+   42,
+   46
+  ],
+  "zusatzzahlen": [
+   3,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-23",
+  "hauptzahlen": [
+   2,
+   6,
+   8,
+   11,
+   14,
+   39
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-23",
+  "ziffern": "3656281"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-23",
+  "ziffern": "087700"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-05-24",
+  "hauptzahlen": [
+   2,
+   14,
+   16,
+   19,
+   26,
+   27,
+   29,
+   37,
+   38,
+   40,
+   41,
+   44,
+   47,
+   49,
+   51,
+   54,
+   58,
+   62,
+   65,
+   68,
+   70,
+   72
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-05-24",
+  "gewinne": [
+   {
+    "serie": "8307",
+    "los": "58942"
+   },
+   {
+    "serie": "8316",
+    "los": "50614"
+   },
+   {
+    "serie": "8302",
+    "los": "51556"
+   },
+   {
+    "serie": "8302",
+    "los": "37993"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-26",
+  "hauptzahlen": [
+   5,
+   11,
+   23,
+   33,
+   42
+  ],
+  "zusatzzahlen": [
+   10,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-27",
+  "hauptzahlen": [
+   16,
+   26,
+   30,
+   41,
+   44,
+   47
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-27",
+  "ziffern": "5176585"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-27",
+  "ziffern": "939157"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-05-29",
+  "hauptzahlen": [
+   3,
+   20,
+   21,
+   42,
+   49
+  ],
+  "zusatzzahlen": [
+   5,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-05-30",
+  "hauptzahlen": [
+   3,
+   10,
+   14,
+   27,
+   41,
+   48
+  ],
+  "zusatzzahlen": [
+   2
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-05-30",
+  "ziffern": "5913593"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-05-30",
+  "ziffern": "883658"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-05-31",
+  "hauptzahlen": [
+   4,
+   6,
+   8,
+   10,
+   18,
+   21,
+   22,
+   25,
+   32,
+   38,
+   39,
+   42,
+   43,
+   50,
+   52,
+   54,
+   58,
+   61,
+   63,
+   65,
+   66,
+   68
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-05-31",
+  "gewinne": [
+   {
+    "serie": "8419",
+    "los": "16584"
+   },
+   {
+    "serie": "8407",
+    "los": "44561"
+   },
+   {
+    "serie": "8448",
+    "los": "11672"
+   },
+   {
+    "serie": "8419",
+    "los": "21610"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-02",
+  "hauptzahlen": [
+   2,
+   36,
+   38,
+   40,
+   46
+  ],
+  "zusatzzahlen": [
+   7,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-03",
+  "hauptzahlen": [
+   4,
+   6,
+   24,
+   26,
+   41,
+   44
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-03",
+  "ziffern": "0794814"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-03",
+  "ziffern": "845922"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-05",
+  "hauptzahlen": [
+   21,
+   23,
+   44,
+   47,
+   50
+  ],
+  "zusatzzahlen": [
+   1,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-06",
+  "hauptzahlen": [
+   8,
+   16,
+   17,
+   23,
+   30,
+   32
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-06",
+  "ziffern": "8777854"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-06",
+  "ziffern": "963812"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-06-07",
+  "hauptzahlen": [
+   4,
+   5,
+   6,
+   7,
+   9,
+   13,
+   15,
+   27,
+   36,
+   41,
+   44,
+   45,
+   46,
+   47,
+   50,
+   57,
+   60,
+   64,
+   68,
+   72,
+   73,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-06-07",
+  "gewinne": [
+   {
+    "serie": "8505",
+    "los": "32442"
+   },
+   {
+    "serie": "8540",
+    "los": "49282"
+   },
+   {
+    "serie": "8540",
+    "los": "28883"
+   },
+   {
+    "serie": "8507",
+    "los": "11917"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-09",
+  "hauptzahlen": [
+   1,
+   14,
+   22,
+   39,
+   48
+  ],
+  "zusatzzahlen": [
+   8,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-10",
+  "hauptzahlen": [
+   11,
+   15,
+   16,
+   28,
+   39,
+   42
+  ],
+  "zusatzzahlen": [
+   7
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-10",
+  "ziffern": "3982124"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-10",
+  "ziffern": "040080"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-12",
+  "hauptzahlen": [
+   2,
+   4,
+   14,
+   18,
+   28
+  ],
+  "zusatzzahlen": [
+   9,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-13",
+  "hauptzahlen": [
+   4,
+   13,
+   16,
+   20,
+   24,
+   43
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-13",
+  "ziffern": "5770232"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-13",
+  "ziffern": "553942"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-06-14",
+  "hauptzahlen": [
+   2,
+   7,
+   19,
+   22,
+   25,
+   27,
+   30,
+   33,
+   35,
+   39,
+   43,
+   45,
+   46,
+   50,
+   51,
+   56,
+   60,
+   67,
+   68,
+   69,
+   70,
+   71
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-06-14",
+  "gewinne": [
+   {
+    "serie": "8638",
+    "los": "31294"
+   },
+   {
+    "serie": "8674",
+    "los": "15894"
+   },
+   {
+    "serie": "8605",
+    "los": "19364"
+   },
+   {
+    "serie": "8640",
+    "los": "23496"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-16",
+  "hauptzahlen": [
+   9,
+   26,
+   29,
+   37,
+   42
+  ],
+  "zusatzzahlen": [
+   1,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-17",
+  "hauptzahlen": [
+   3,
+   4,
+   20,
+   26,
+   27,
+   39
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-17",
+  "ziffern": "9094173"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-17",
+  "ziffern": "086799"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-19",
+  "hauptzahlen": [
+   16,
+   27,
+   37,
+   42,
+   45
+  ],
+  "zusatzzahlen": [
+   5,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-20",
+  "hauptzahlen": [
+   2,
+   8,
+   13,
+   15,
+   27,
+   35
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-20",
+  "ziffern": "9155645"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-20",
+  "ziffern": "607537"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-06-21",
+  "hauptzahlen": [
+   2,
+   4,
+   5,
+   6,
+   11,
+   16,
+   22,
+   23,
+   25,
+   28,
+   39,
+   42,
+   46,
+   48,
+   49,
+   50,
+   60,
+   63,
+   64,
+   65,
+   67,
+   68
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-06-21",
+  "gewinne": [
+   {
+    "serie": "8741",
+    "los": "15643"
+   },
+   {
+    "serie": "8708",
+    "los": "11082"
+   },
+   {
+    "serie": "8739",
+    "los": "34122"
+   },
+   {
+    "serie": "8758",
+    "los": "17293"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-23",
+  "hauptzahlen": [
+   24,
+   27,
+   43,
+   48,
+   50
+  ],
+  "zusatzzahlen": [
+   4,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-24",
+  "hauptzahlen": [
+   25,
+   36,
+   40,
+   43,
+   44,
+   49
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-24",
+  "ziffern": "4363787"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-24",
+  "ziffern": "587317"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-26",
+  "hauptzahlen": [
+   17,
+   25,
+   35,
+   39,
+   41
+  ],
+  "zusatzzahlen": [
+   5,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-06-27",
+  "hauptzahlen": [
+   26,
+   32,
+   35,
+   39,
+   47,
+   49
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-06-27",
+  "ziffern": "9386338"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-06-27",
+  "ziffern": "635045"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-06-28",
+  "hauptzahlen": [
+   10,
+   16,
+   23,
+   24,
+   25,
+   29,
+   30,
+   33,
+   38,
+   40,
+   41,
+   42,
+   45,
+   49,
+   53,
+   59,
+   65,
+   67,
+   68,
+   70,
+   71,
+   72
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-06-28",
+  "gewinne": [
+   {
+    "serie": "8801",
+    "los": "37044"
+   },
+   {
+    "serie": "8800",
+    "los": "59871"
+   },
+   {
+    "serie": "8839",
+    "los": "14793"
+   },
+   {
+    "serie": "8804",
+    "los": "42716"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-06-30",
+  "hauptzahlen": [
+   12,
+   19,
+   34,
+   44,
+   50
+  ],
+  "zusatzzahlen": [
+   3,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-01",
+  "hauptzahlen": [
+   2,
+   4,
+   5,
+   13,
+   41,
+   48
+  ],
+  "zusatzzahlen": [
+   4
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-01",
+  "ziffern": "5519273"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-01",
+  "ziffern": "386523"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-03",
+  "hauptzahlen": [
+   4,
+   9,
+   20,
+   25,
+   28
+  ],
+  "zusatzzahlen": [
+   1,
+   3
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-04",
+  "hauptzahlen": [
+   7,
+   10,
+   28,
+   31,
+   36,
+   37
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-04",
+  "ziffern": "2397042"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-04",
+  "ziffern": "045003"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-07-05",
+  "hauptzahlen": [
+   3,
+   5,
+   7,
+   8,
+   15,
+   25,
+   31,
+   32,
+   36,
+   38,
+   40,
+   43,
+   46,
+   52,
+   53,
+   54,
+   55,
+   58,
+   61,
+   62,
+   63,
+   70
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-07-05",
+  "gewinne": [
+   {
+    "serie": "8906",
+    "los": "16847"
+   },
+   {
+    "serie": "8907",
+    "los": "51516"
+   },
+   {
+    "serie": "8966",
+    "los": "10834"
+   },
+   {
+    "serie": "8981",
+    "los": "11591"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-07",
+  "hauptzahlen": [
+   6,
+   16,
+   24,
+   41,
+   46
+  ],
+  "zusatzzahlen": [
+   2,
+   3
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-08",
+  "hauptzahlen": [
+   15,
+   28,
+   30,
+   31,
+   37,
+   45
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-08",
+  "ziffern": "2860775"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-08",
+  "ziffern": "158772"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-10",
+  "hauptzahlen": [
+   13,
+   25,
+   28,
+   42,
+   45
+  ],
+  "zusatzzahlen": [
+   5,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-11",
+  "hauptzahlen": [
+   1,
+   4,
+   6,
+   20,
+   41,
+   48
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-11",
+  "ziffern": "5224779"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-11",
+  "ziffern": "669010"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-07-12",
+  "hauptzahlen": [
+   2,
+   4,
+   6,
+   7,
+   11,
+   14,
+   15,
+   16,
+   17,
+   21,
+   24,
+   27,
+   32,
+   33,
+   36,
+   42,
+   44,
+   48,
+   50,
+   53,
+   57,
+   59
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-07-12",
+  "gewinne": [
+   {
+    "serie": "9039",
+    "los": "26792"
+   },
+   {
+    "serie": "9048",
+    "los": "13187"
+   },
+   {
+    "serie": "9066",
+    "los": "50802"
+   },
+   {
+    "serie": "9001",
+    "los": "48250"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-14",
+  "hauptzahlen": [
+   5,
+   6,
+   17,
+   34,
+   36
+  ],
+  "zusatzzahlen": [
+   3,
+   11
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-15",
+  "hauptzahlen": [
+   7,
+   11,
+   35,
+   37,
+   39,
+   42
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-15",
+  "ziffern": "0640050"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-15",
+  "ziffern": "429382"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-17",
+  "hauptzahlen": [
+   6,
+   21,
+   31,
+   47,
+   48
+  ],
+  "zusatzzahlen": [
+   2,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-18",
+  "hauptzahlen": [
+   5,
+   17,
+   33,
+   35,
+   39,
+   47
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-18",
+  "ziffern": "2352296"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-18",
+  "ziffern": "598174"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-07-19",
+  "hauptzahlen": [
+   10,
+   13,
+   14,
+   20,
+   21,
+   23,
+   24,
+   25,
+   26,
+   27,
+   49,
+   52,
+   53,
+   56,
+   57,
+   58,
+   60,
+   61,
+   62,
+   64,
+   74,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-07-19",
+  "gewinne": [
+   {
+    "serie": "9142",
+    "los": "13835"
+   },
+   {
+    "serie": "9106",
+    "los": "29476"
+   },
+   {
+    "serie": "9106",
+    "los": "36994"
+   },
+   {
+    "serie": "9138",
+    "los": "29705"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-21",
+  "hauptzahlen": [
+   4,
+   8,
+   10,
+   17,
+   37
+  ],
+  "zusatzzahlen": [
+   5,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-22",
+  "hauptzahlen": [
+   3,
+   5,
+   10,
+   14,
+   25,
+   49
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-22",
+  "ziffern": "1427400"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-22",
+  "ziffern": "892824"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-24",
+  "hauptzahlen": [
+   4,
+   6,
+   8,
+   17,
+   22
+  ],
+  "zusatzzahlen": [
+   7,
+   10
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-25",
+  "hauptzahlen": [
+   18,
+   21,
+   31,
+   36,
+   42,
+   44
+  ],
+  "zusatzzahlen": [
+   3
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-25",
+  "ziffern": "0509582"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-25",
+  "ziffern": "522511"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-07-26",
+  "hauptzahlen": [
+   1,
+   2,
+   3,
+   7,
+   9,
+   12,
+   17,
+   21,
+   29,
+   32,
+   46,
+   47,
+   50,
+   56,
+   58,
+   59,
+   62,
+   65,
+   66,
+   71,
+   72,
+   74
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-07-26",
+  "gewinne": [
+   {
+    "serie": "9240",
+    "los": "57149"
+   },
+   {
+    "serie": "9277",
+    "los": "32007"
+   },
+   {
+    "serie": "9202",
+    "los": "44864"
+   },
+   {
+    "serie": "9207",
+    "los": "18730"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-28",
+  "hauptzahlen": [
+   11,
+   25,
+   40,
+   41,
+   45
+  ],
+  "zusatzzahlen": [
+   1,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-07-29",
+  "hauptzahlen": [
+   3,
+   16,
+   22,
+   43,
+   48,
+   49
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-07-29",
+  "ziffern": "4332046"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-07-29",
+  "ziffern": "881997"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-07-31",
+  "hauptzahlen": [
+   4,
+   10,
+   20,
+   40,
+   41
+  ],
+  "zusatzzahlen": [
+   4,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-01",
+  "hauptzahlen": [
+   19,
+   20,
+   22,
+   25,
+   31,
+   42
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-01",
+  "ziffern": "2559786"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-01",
+  "ziffern": "520599"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-08-02",
+  "hauptzahlen": [
+   6,
+   8,
+   12,
+   13,
+   14,
+   18,
+   19,
+   21,
+   22,
+   27,
+   35,
+   39,
+   40,
+   44,
+   45,
+   53,
+   60,
+   62,
+   64,
+   69,
+   71,
+   73
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-08-02",
+  "gewinne": [
+   {
+    "serie": "9306",
+    "los": "58292"
+   },
+   {
+    "serie": "9306",
+    "los": "38397"
+   },
+   {
+    "serie": "9304",
+    "los": "55066"
+   },
+   {
+    "serie": "9339",
+    "los": "48213"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-04",
+  "hauptzahlen": [
+   3,
+   17,
+   30,
+   35,
+   43
+  ],
+  "zusatzzahlen": [
+   1,
+   12
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-05",
+  "hauptzahlen": [
+   15,
+   23,
+   24,
+   36,
+   44,
+   49
+  ],
+  "zusatzzahlen": [
+   0
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-05",
+  "ziffern": "8367358"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-05",
+  "ziffern": "495224"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-07",
+  "hauptzahlen": [
+   1,
+   3,
+   6,
+   13,
+   23
+  ],
+  "zusatzzahlen": [
+   5,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-08",
+  "hauptzahlen": [
+   2,
+   8,
+   22,
+   30,
+   38,
+   43
+  ],
+  "zusatzzahlen": [
+   4
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-08",
+  "ziffern": "8193975"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-08",
+  "ziffern": "641977"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-08-09",
+  "hauptzahlen": [
+   2,
+   3,
+   5,
+   6,
+   12,
+   14,
+   16,
+   20,
+   21,
+   23,
+   26,
+   32,
+   33,
+   34,
+   35,
+   38,
+   42,
+   44,
+   48,
+   49,
+   53,
+   59
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-08-09",
+  "gewinne": [
+   {
+    "serie": "9419",
+    "los": "37264"
+   },
+   {
+    "serie": "9419",
+    "los": "51318"
+   },
+   {
+    "serie": "9419",
+    "los": "30340"
+   },
+   {
+    "serie": "9407",
+    "los": "54042"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-11",
+  "hauptzahlen": [
+   4,
+   11,
+   12,
+   16,
+   30
+  ],
+  "zusatzzahlen": [
+   8,
+   9
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-12",
+  "hauptzahlen": [
+   7,
+   20,
+   22,
+   27,
+   29,
+   39
+  ],
+  "zusatzzahlen": [
+   2
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-12",
+  "ziffern": "9596505"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-12",
+  "ziffern": "710217"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-14",
+  "hauptzahlen": [
+   5,
+   26,
+   28,
+   30,
+   40
+  ],
+  "zusatzzahlen": [
+   3,
+   6
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-15",
+  "hauptzahlen": [
+   7,
+   13,
+   24,
+   26,
+   32,
+   45
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-15",
+  "ziffern": "1754515"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-15",
+  "ziffern": "161635"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-08-16",
+  "hauptzahlen": [
+   6,
+   11,
+   12,
+   13,
+   14,
+   17,
+   20,
+   22,
+   30,
+   31,
+   37,
+   43,
+   47,
+   48,
+   49,
+   50,
+   51,
+   53,
+   61,
+   67,
+   68,
+   69
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-08-16",
+  "gewinne": [
+   {
+    "serie": "9560",
+    "los": "10149"
+   },
+   {
+    "serie": "9520",
+    "los": "21448"
+   },
+   {
+    "serie": "9537",
+    "los": "12043"
+   },
+   {
+    "serie": "9506",
+    "los": "30462"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-18",
+  "hauptzahlen": [
+   15,
+   22,
+   24,
+   34,
+   42
+  ],
+  "zusatzzahlen": [
+   4,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-19",
+  "hauptzahlen": [
+   3,
+   23,
+   31,
+   33,
+   35,
+   47
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-19",
+  "ziffern": "9640402"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-19",
+  "ziffern": "083601"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-21",
+  "hauptzahlen": [
+   25,
+   35,
+   45,
+   46,
+   50
+  ],
+  "zusatzzahlen": [
+   4,
+   8
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-22",
+  "hauptzahlen": [
+   7,
+   16,
+   22,
+   28,
+   30,
+   31
+  ],
+  "zusatzzahlen": [
+   4
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-22",
+  "ziffern": "0621640"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-22",
+  "ziffern": "094740"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-08-23",
+  "hauptzahlen": [
+   4,
+   15,
+   17,
+   20,
+   21,
+   25,
+   29,
+   34,
+   35,
+   39,
+   41,
+   45,
+   49,
+   51,
+   54,
+   56,
+   60,
+   65,
+   72,
+   73,
+   74,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-08-23",
+  "gewinne": [
+   {
+    "serie": "9606",
+    "los": "30035"
+   },
+   {
+    "serie": "9657",
+    "los": "30274"
+   },
+   {
+    "serie": "9600",
+    "los": "28228"
+   },
+   {
+    "serie": "9604",
+    "los": "58521"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-25",
+  "hauptzahlen": [
+   4,
+   5,
+   7,
+   48,
+   50
+  ],
+  "zusatzzahlen": [
+   4,
+   5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-26",
+  "hauptzahlen": [
+   6,
+   15,
+   30,
+   33,
+   42,
+   49
+  ],
+  "zusatzzahlen": [
+   1
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-26",
+  "ziffern": "5153121"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-26",
+  "ziffern": "357751"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-08-28",
+  "hauptzahlen": [
+   23,
+   34,
+   39,
+   45,
+   49
+  ],
+  "zusatzzahlen": [
+   1,
+   4
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-08-29",
+  "hauptzahlen": [
+   9,
+   18,
+   28,
+   39,
+   41,
+   48
+  ],
+  "zusatzzahlen": [
+   6
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-08-29",
+  "ziffern": "4072150"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-08-29",
+  "ziffern": "036401"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-08-30",
+  "hauptzahlen": [
+   1,
+   4,
+   11,
+   15,
+   17,
+   19,
+   22,
+   24,
+   26,
+   33,
+   46,
+   47,
+   52,
+   54,
+   57,
+   58,
+   60,
+   62,
+   63,
+   64,
+   71,
+   75
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-08-30",
+  "gewinne": [
+   {
+    "serie": "9705",
+    "los": "22108"
+   },
+   {
+    "serie": "9700",
+    "los": "56285"
+   },
+   {
+    "serie": "9703",
+    "los": "45709"
+   },
+   {
+    "serie": "9706",
+    "los": "40094"
+   }
+  ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-09-01",
+  "hauptzahlen": [
+   9,
+   14,
+   35,
+   43,
+   50
+  ],
+  "zusatzzahlen": [
+   3,
+   7
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-09-02",
+  "hauptzahlen": [
+   8,
+   19,
+   23,
+   32,
+   44,
+   45
+  ],
+  "zusatzzahlen": [
+   8
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-09-02",
+  "ziffern": "0473330"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-09-02",
+  "ziffern": "653453"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-09-04",
+  "hauptzahlen": [
+   5,
+   14,
+   31,
+   33,
+   43
+  ],
+  "zusatzzahlen": [
+   3,
+   4
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-09-05",
+  "hauptzahlen": [
+   6,
+   11,
+   28,
+   31,
+   37,
+   47
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-09-05",
+  "ziffern": "4789095"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-09-05",
+  "ziffern": "097061"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-09-06",
+  "hauptzahlen": [
+   7,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   22,
+   23,
+   29,
+   38,
+   43,
+   48,
+   49,
+   53,
+   58,
+   60,
+   63,
+   65,
+   71,
+   72,
+   73
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-09-06",
+  "gewinne": [
+   {
+    "serie": "9801",
+    "los": "23125"
+   },
+   {
+    "serie": "9840",
+    "los": "17492"
+   },
+   {
+    "serie": "9866",
+    "los": "57904"
+   },
+   {
+    "serie": "9804",
+    "los": "31413"
+   }
+  ]
+ }
+]
