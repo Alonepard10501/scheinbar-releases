@@ -6810,5 +6810,20 @@
     "los": "31413"
    }
   ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-09-08",
+  "hauptzahlen": [
+   14,
+   27,
+   34,
+   36,
+   47
+  ],
+  "zusatzzahlen": [
+   3,
+   4
+  ]
  }
 ]
