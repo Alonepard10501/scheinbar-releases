@@ -6810,5 +6810,20 @@
   "spiel": "super6",
   "datum": "2026-09-16",
   "ziffern": "168266"
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-09-18",
+  "hauptzahlen": [
+   4,
+   25,
+   30,
+   32,
+   33
+  ],
+  "zusatzzahlen": [
+   4,
+   5
+  ]
  }
 ]
