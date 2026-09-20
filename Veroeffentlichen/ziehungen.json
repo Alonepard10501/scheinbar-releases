@@ -1,45 +1,5 @@
 [
  {
-  "spiel": "eurojackpot",
-  "datum": "2025-09-19",
-  "hauptzahlen": [
-   9,
-   37,
-   40,
-   41,
-   46
-  ],
-  "zusatzzahlen": [
-   1,
-   12
-  ]
- },
- {
-  "spiel": "lotto6aus49",
-  "datum": "2025-09-20",
-  "hauptzahlen": [
-   6,
-   13,
-   15,
-   19,
-   43,
-   44
-  ],
-  "zusatzzahlen": [
-   4
-  ]
- },
- {
-  "spiel": "spiel77",
-  "datum": "2025-09-20",
-  "ziffern": "4580703"
- },
- {
-  "spiel": "super6",
-  "datum": "2025-09-20",
-  "ziffern": "704865"
- },
- {
   "spiel": "bingo",
   "datum": "2025-09-21",
   "hauptzahlen": [
@@ -6824,6 +6784,82 @@
   "zusatzzahlen": [
    4,
    5
+  ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-09-19",
+  "hauptzahlen": [
+   14,
+   15,
+   29,
+   32,
+   34,
+   40
+  ],
+  "zusatzzahlen": [
+   9
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-09-19",
+  "ziffern": "5381840"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-09-19",
+  "ziffern": "688258"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-09-20",
+  "hauptzahlen": [
+   2,
+   6,
+   8,
+   10,
+   14,
+   16,
+   18,
+   20,
+   25,
+   28,
+   29,
+   30,
+   33,
+   34,
+   35,
+   45,
+   47,
+   49,
+   55,
+   56,
+   57,
+   62
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-09-20",
+  "gewinne": [
+   {
+    "serie": "1077",
+    "los": "15593"
+   },
+   {
+    "serie": "1001",
+    "los": "24169"
+   },
+   {
+    "serie": "1040",
+    "los": "25485"
+   },
+   {
+    "serie": "1005",
+    "los": "47276"
+   }
   ]
  }
 ]
