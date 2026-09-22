@@ -6810,5 +6810,20 @@
     "los": "47276"
    }
   ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-09-22",
+  "hauptzahlen": [
+   17,
+   23,
+   33,
+   46,
+   47
+  ],
+  "zusatzzahlen": [
+   4,
+   5
+  ]
  }
 ]
