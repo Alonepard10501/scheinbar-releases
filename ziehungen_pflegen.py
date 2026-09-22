@@ -120,7 +120,7 @@ def hole_bingo(grenze):
     ziehungen = []
     for i, s in enumerate(sonntage):
         for z in antwort["data"][f"a{i}"] or []:
-            if z["drawDateTime"][:10] != s:
+            if z["drawDateTime"][:10] != s or not z.get("drawNumbers"):
                 continue
             ziehungen.append({"spiel": "bingo", "datum": s,
                               "hauptzahlen": sorted(z["drawNumbers"]),
