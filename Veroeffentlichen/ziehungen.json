@@ -1,30 +1,5 @@
 [
  {
-  "spiel": "lotto6aus49",
-  "datum": "2025-09-24",
-  "hauptzahlen": [
-   9,
-   14,
-   16,
-   29,
-   31,
-   48
-  ],
-  "zusatzzahlen": [
-   8
-  ]
- },
- {
-  "spiel": "spiel77",
-  "datum": "2025-09-24",
-  "ziffern": "6699377"
- },
- {
-  "spiel": "super6",
-  "datum": "2025-09-24",
-  "ziffern": "328099"
- },
- {
   "spiel": "eurojackpot",
   "datum": "2025-09-26",
   "hauptzahlen": [
