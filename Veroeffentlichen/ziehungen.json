@@ -1,30 +1,5 @@
 [
  {
-  "spiel": "lotto6aus49",
-  "datum": "2025-09-27",
-  "hauptzahlen": [
-   8,
-   11,
-   14,
-   20,
-   36,
-   38
-  ],
-  "zusatzzahlen": [
-   5
-  ]
- },
- {
-  "spiel": "spiel77",
-  "datum": "2025-09-27",
-  "ziffern": "8534152"
- },
- {
-  "spiel": "super6",
-  "datum": "2025-09-27",
-  "ziffern": "539182"
- },
- {
   "spiel": "bingo",
   "datum": "2025-09-28",
   "hauptzahlen": [
@@ -6835,5 +6810,56 @@
   "spiel": "super6",
   "datum": "2026-09-26",
   "ziffern": "678186"
+ },
+ {
+  "spiel": "bingo",
+  "datum": "2026-09-27",
+  "hauptzahlen": [
+   8,
+   11,
+   13,
+   15,
+   19,
+   20,
+   23,
+   24,
+   25,
+   29,
+   33,
+   34,
+   39,
+   42,
+   44,
+   45,
+   47,
+   48,
+   49,
+   53,
+   54,
+   57
+  ],
+  "zusatzzahlen": []
+ },
+ {
+  "spiel": "superchance",
+  "datum": "2026-09-27",
+  "gewinne": [
+   {
+    "serie": "1104",
+    "los": "46626"
+   },
+   {
+    "serie": "1100",
+    "los": "36942"
+   },
+   {
+    "serie": "1119",
+    "los": "33635"
+   },
+   {
+    "serie": "1113",
+    "los": "19844"
+   }
+  ]
  }
 ]
