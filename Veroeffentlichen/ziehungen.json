@@ -6810,5 +6810,20 @@
     "los": "10938"
    }
   ]
+ },
+ {
+  "spiel": "eurojackpot",
+  "datum": "2026-10-20",
+  "hauptzahlen": [
+   5,
+   16,
+   32,
+   34,
+   38
+  ],
+  "zusatzzahlen": [
+   8,
+   9
+  ]
  }
 ]
