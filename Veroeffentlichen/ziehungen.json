@@ -1,30 +1,5 @@
 [
  {
-  "spiel": "lotto6aus49",
-  "datum": "2025-10-22",
-  "hauptzahlen": [
-   4,
-   14,
-   19,
-   26,
-   35,
-   40
-  ],
-  "zusatzzahlen": [
-   0
-  ]
- },
- {
-  "spiel": "spiel77",
-  "datum": "2025-10-22",
-  "ziffern": "0077418"
- },
- {
-  "spiel": "super6",
-  "datum": "2025-10-22",
-  "ziffern": "417137"
- },
- {
   "spiel": "eurojackpot",
   "datum": "2025-10-24",
   "hauptzahlen": [
