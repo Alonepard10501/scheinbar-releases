@@ -1,20 +1,5 @@
 [
  {
-  "spiel": "eurojackpot",
-  "datum": "2025-10-31",
-  "hauptzahlen": [
-   5,
-   11,
-   40,
-   41,
-   47
-  ],
-  "zusatzzahlen": [
-   1,
-   5
-  ]
- },
- {
   "spiel": "lotto6aus49",
   "datum": "2025-11-01",
   "hauptzahlen": [
@@ -6825,5 +6810,30 @@
    5,
    7
   ]
+ },
+ {
+  "spiel": "lotto6aus49",
+  "datum": "2026-10-31",
+  "hauptzahlen": [
+   5,
+   6,
+   13,
+   22,
+   24,
+   41
+  ],
+  "zusatzzahlen": [
+   5
+  ]
+ },
+ {
+  "spiel": "spiel77",
+  "datum": "2026-10-31",
+  "ziffern": "8734943"
+ },
+ {
+  "spiel": "super6",
+  "datum": "2026-10-31",
+  "ziffern": "903657"
  }
 ]
